@@ -1,0 +1,6 @@
+[Movie:Gladiator%Length:120%Genre:Action%Rating:18]
+[Movie:Iron Man%Length:150%Genre:Fantasy%Rating:12]
+[Movie:Mufasa%Length:150%Genre:Animated%Rating:U]
+[Movie:Maze Runner%Length:130%Genre:Thriller%Rating:15]
+[Movie:Holiday%Length:120%Rating:12]
+[Movie:Sausage Party%Length:90%Rating:18]
